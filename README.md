@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:-->
 
-<!--- 🔭 I’m currently working on ...->
-<!--- 🌱 I’m currently learning ...->
+<!-- 🔭 I’m currently working on ...-->
+<!-- 🌱 I’m currently learning ...-->
 - 👯 I’m looking to collaborate on ...DataScience
-<!--- 🤔 I’m looking for help with ...->
+<!-- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about ...DataScience, Salesforce Admin, Vlocity OmniStudio andSiebel CRM 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
